@@ -45,7 +45,10 @@ CNN - Convolutional Neural Network |
 IDE - Integrated Development Environment |
 GPU - Graphical Processing Unit
 
-## IX. FUTURE SCOPE
+## VI. IMPLEMENTATION
+![alt text](https://github.com/ArfahUpade/the-bug-squashers-CancerDetect/blob/main/CancerDetect%20Images/1.png)
+
+## VII. FUTURE SCOPE
 The current model predicts the cancer types according to the gene profile. Future enhancements can be:
 
 a) Detecting the stages of cancer
