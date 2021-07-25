@@ -1,6 +1,6 @@
 # CancerDetect - Prediction & Detection of Cancer, based on gene profiles using Deep Learning
 
-For ML part, please refer repository: https://github.com/ArfahUpade/CancerDetect
+For ML part, please refer repository: https://github.com/diwan-kadir/CancerDetect
 
 Project by: Kadir Diwan | Rajeev Bandi | Arfah Upade
 
