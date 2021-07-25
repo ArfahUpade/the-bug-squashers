@@ -46,7 +46,11 @@ IDE - Integrated Development Environment |
 GPU - Graphical Processing Unit
 
 ## VI. IMPLEMENTATION
-![alt text](https://github.com/ArfahUpade/the-bug-squashers-CancerDetect/blob/main/CancerDetect%20Images/1.png)
+
+
+https://user-images.githubusercontent.com/56472876/126893703-412db8e6-5c10-44f0-b0ea-2eea9f76b171.mp4
+
+
 
 ## VII. FUTURE SCOPE
 The current model predicts the cancer types according to the gene profile. Future enhancements can be:
