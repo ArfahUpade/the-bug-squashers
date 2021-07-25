@@ -44,3 +44,12 @@ SaaS - Software as a Service
 CNN - Convolutional Neural Network
 IDE - Integrated Development Environment
 GPU - Graphical Processing Unit
+
+## IX. FUTURE SCOPE
+The current model predicts the cancer types according to the gene profile. Future enhancements can be:
+
+a) Detecting the stages of cancer
+b) Conversion of the whole system into a SaaS module.
+c) Extending it to more conditions like (other diseases, Diabetes, Alzhiemers, etc.)
+d) Integrating the existing models with CancerDetect and providing a report which covers a large range of software-based tests and their analysis.
+e) Make CancerDetect available for iOS and Android.
