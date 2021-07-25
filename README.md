@@ -33,16 +33,16 @@ The TCGA dataset consists of seven thousand genes of eleven thousand individuals
 definitely require external graphics. The model was trained on a Graphics card having 4Gb DDR5 memory and 7 Gbps memory speed (Nvidia 1050 GPU). The prediction is not GPU-dependent as compared to training.
 
 ## V. ABBREVIATIONS AND ACRONYMS
-Abbreviation - Meaning
-TCGA - The Cancer Genome Atlas
-WHO - World Health Organization
-AI - Artificial Intelligence
-DL - Deep Learning
-DNA - Deoxyribonucleic acid
-CSV - Comma Separated Values
-SaaS - Software as a Service
-CNN - Convolutional Neural Network
-IDE - Integrated Development Environment
+Abbreviation - Meaning |
+TCGA - The Cancer Genome Atlas |
+WHO - World Health Organization |
+AI - Artificial Intelligence |
+DL - Deep Learning |
+DNA - Deoxyribonucleic acid |
+CSV - Comma Separated Values |
+SaaS - Software as a Service |
+CNN - Convolutional Neural Network |
+IDE - Integrated Development Environment |
 GPU - Graphical Processing Unit
 
 ## IX. FUTURE SCOPE
